@@ -1,0 +1,26 @@
+﻿NO. OF EMPLOYEE TO EMPLOYEE STATUES,,,,SALARY BY DEPARTMENT,,,AGE RANGE BY GENDER,,,,,WORK PLACE,,,,,,,
+Row Labels,Count of Full Name,,,Row Labels,Sum of Salary,,Count of Full Name,Column Labels,,,,Row Labels,Count of Full Name,,,,Row Labels,Count of Full Name,
+Contract,17,,,Analyst,167041,,Row Labels,Female,Male,Grand Total,,Branch Office,23,2300%,46.00%,,Communication,12,
+Full-Time,20,,,Designer,613842,,18-25,6,3,9,,Head Office,8,800%,16.00%,,Design,11,
+Part-Time,13,,,Developer,633594,,26-35,7,6,13,,Remote,19,1900%,38.00%,,Excel,7,
+Grand Total,50,,,HR Specialist,959266,,36-45,5,7,12,,Grand Total,50,,,,Management,11,
+,,,,Manager,731170,,46-55,4,3,7,,,,,,,Python,9,
+Contract,17,,,Grand Total,3104913,,56 <,4,5,9,,,,,,,Grand Total,50,
+Full-Time,20,,,,,,Grand Total,26,24,50,,,,,,,,,
+Part-Time,13,,,Analyst,167041,,,,,,,,,,,,,,
+Total,50,,,Designer,613842,,Female,26,52%,,,,,,,,,,
+,,,,Developer,633594,,Male,24,48%,,,,,,,,,,
+,,,,HR Specialist,959266,,Total,50,,,,,,,,,,,
+,,,,Manager,731170,,,,,,,,,,,,,,
+,,,,Total,3104913,,,,,,,,,,Row Labels,Sum of Leave Taken,,Row Labels,Count of Full Name
+,,,,,,,,,,,,,,,Anna Payne,18,,Central,14
+,,,,,,,,,,,,,,,Carolyn Bullock,18,,East,10
+,,,,,,,,,,,,,,,Donna Jones,20,,North,7
+,,,,,,,,,,,,,,,Gary Garcia,19,,South,10
+,,,,,,,,,,,,,,,Kevin Bell,17,,West,9
+,,,,,,,,,,,,,,,Kimberly Jones,20,,Grand Total,50
+,,,,,,,,,,,,,,,Mandy Davis,19,,,
+,,,,,,,,,,,,,,,Mark Lopez,18,,,
+,,,,,,,,,,,,,,,Matthew Powell,20,,,
+,,,,,,,,,,,,,,,Timothy Aguilar,18,,,
+,,,,,,,,,,,,,,,Grand Total,187,,,
